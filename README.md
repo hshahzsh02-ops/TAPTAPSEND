@@ -98,7 +98,7 @@
   <h1>MyApp APK</h1>
   <p>Click below to download the latest version</p>
 
-  <a href="https://github.com/YourUsername/MyAppAPK/releases/download/v1.0/app.apk" download>
+  <a href="[https://github.com/hshahzsh02-ops/TAPTAPSEND/releases/download/v1.0/app.apk]" download>
     <button>Download APK</button>
   </a>
 
